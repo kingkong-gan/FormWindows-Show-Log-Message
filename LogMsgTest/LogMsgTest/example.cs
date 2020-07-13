@@ -38,7 +38,7 @@ namespace LogMsgTest
             FormLog.FormLogMsg.AddCtrl(viceLog, "second", null);
             mytimer.Elapsed += Mytimer_Elapsed;
             mytimer.AutoReset = true;
-            mytimer.Enabled = false;
+            mytimer.Enabled = true;
         }
 
         private void Mytimer_Elapsed(object sender, ElapsedEventArgs e)
@@ -64,11 +64,6 @@ namespace LogMsgTest
         {
             mytimer.Close();
             FormLogMsg.Dispose();
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            FormLogMsg.RedirectFilePath(mainSaveFilePath.Text);
         }
     }
 }
