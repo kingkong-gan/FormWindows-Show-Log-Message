@@ -8,3 +8,13 @@ D:\MyDraft\C#\000MySourceCode\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.csproj.
 D:\MyDraft\C#\000MySourceCode\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.csproj.CoreCompileInputs.cache
 D:\MyDraft\C#\000MySourceCode\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.exe
 D:\MyDraft\C#\000MySourceCode\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.pdb
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\bin\Debug\LogMsgTest.exe.config
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\bin\Debug\LogMsgTest.exe
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\bin\Debug\LogMsgTest.pdb
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.csprojAssemblyReference.cache
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.example.resources
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.Properties.Resources.resources
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.csproj.GenerateResource.cache
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.csproj.CoreCompileInputs.cache
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.exe
+D:\MyDraft\C#\LogMsg\FormWindows-Show-Log-Message\LogMsgTest\LogMsgTest\obj\Debug\LogMsgTest.pdb

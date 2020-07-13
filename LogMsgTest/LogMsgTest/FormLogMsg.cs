@@ -408,7 +408,8 @@ namespace FormLog
         /// <returns></returns>
         public bool ChangeFilePath(string savepath)
         {
-            Regex regex = new Regex(@"^[A-Z]:(\\{1}[^\\^\/^\:^\?^\*^""^\<^\>^\.^\s]+)*\\?$", RegexOptions.IgnoreCase); //判断文件路径是否合法
+            Regex regex = new Regex(@"^[A-Z]:(\\{1}\S[^\\^\/^\:^\?^\*^""^\<^\>^\.]+)*\S\\?$", RegexOptions.IgnoreCase); //判断文件路径是否合法
+                                                        //  无法判定文件一头一尾空格非法
             if (savepath != null && regex.IsMatch(savepath))
             {
                 if (!Directory.Exists(savepath))
